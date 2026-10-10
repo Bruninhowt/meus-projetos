@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#links-top{
+    display: flex;
+    gap: 20px;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+}
+
+#links-top > a {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+#menu-top{
+    display: flex;
+    background-color: red;
+    
+
+}
